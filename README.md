@@ -1,3 +1,3 @@
 # Project
-Description: TBD
-Author: TBD
+Description: Hello this is the new description
+Author: DevSecOps
