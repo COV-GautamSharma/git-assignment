@@ -1,1 +1,7 @@
 This is the notes file.
+Feature work in progress for the rebase practice through a new branch.
+
+Fix typo
+Fix formatting
+
+Line 1: Main Branch Version
